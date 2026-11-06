@@ -1,16 +1,15 @@
-## Hi there 👋
+### Connor Haft
 
-<!--
-**connor-sec/connor-sec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Physical pen tester & social engineer · CISSP · Vice Chair, [TOOOL](https://toool.us). I build offline tools for authorized red teaming.
 
-Here are some ideas to get you started:
+Most of what I build is a single offline file that still works on a laptop or USB stick when there's no internet on-site.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Projects**
+- [RFID Rodeo](https://github.com/connor-sec/RFID_Rodeo): offline Wiegand & smart-card format calculator with Proxmark and Flipper output
+- [Backdoor Botfly](https://connorhaft.com/backdoor-botfly.html): tailgating tool for authorized testing ([open hardware version](https://github.com/connor-sec/FOSS-Backdoor-Botfly))
+- [Exif Exorcist](https://github.com/connor-sec/Exif_Exorcist): strip metadata from images, PDFs, Office docs and media, in your browser
+- [ethical-docs](https://github.com/connor-sec/ethical-docs): offline invoice & work-order generators for authorized engagements
+- [bait-intentions](https://github.com/connor-sec/bait-intentions): USB Rubber Ducky payload for honest USB drop tests
+
+For authorized security testing, training, and research only.
+[connorhaft.com](https://connorhaft.com) · [LinkedIn](https://www.linkedin.com/in/connorhaft/)
