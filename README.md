@@ -1,4 +1,4 @@
-### Connor Haft
+### Connor
 
 Physical pen tester & social engineer · CISSP · Vice Chair, [TOOOL](https://toool.us). I build offline tools for authorized red teaming.
 
