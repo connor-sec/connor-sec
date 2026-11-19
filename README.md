@@ -12,4 +12,5 @@ Most of what I build is a single offline file that still works on a laptop or US
 - [bait-intentions](https://github.com/connor-sec/bait-intentions): USB Rubber Ducky payload for honest USB drop tests
 
 For authorized security testing, training, and research only.
+
 [connorhaft.com](https://connorhaft.com) · [LinkedIn](https://www.linkedin.com/in/connorhaft/)
